@@ -1,4 +1,4 @@
-It's CAD files only.  I'm way too flighty to maintain a repo for the various states of this printer is in.  The build is dynamic
+It's CAD files only.  I'm way too flighty to maintain a repo for the various states this printer is in.  The build is dynamic
 
 ## Acknowledgements
 If I forgot anyone, berate me publicly here or on discord.
